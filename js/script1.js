@@ -1,1 +1,1 @@
-console.log("Script 1 wird geladen");
+console.log("Script 1 ist fertig geladen");

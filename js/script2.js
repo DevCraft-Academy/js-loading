@@ -4,4 +4,4 @@ document.getElementById("loadScript").addEventListener("click", function() {
   document.body.appendChild(scriptElement);
 });
 
-console.log("Script 2 wird geladen");
+console.log("Script 2 ist fertig geladen");
